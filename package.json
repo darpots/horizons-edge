@@ -1,18 +1,24 @@
 {
   "name": "horizons-edge",
-  "displayName": "Horizons Edge",
-  "description": "Theme made for darpots",
-  "version": "0.0.1",
+  "publisher": "darpots",
+  "displayName": "Horizons Edge Theme",
+  "description": "Theme made for darpots that evolved over time to look quite decent.  Well, at least I think so....",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.65.0"
   },
   "categories": [
     "Themes"
   ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "url": "https://github.com/darpots/horizons-edge"
+  },
+  "icon": "horizons-edge.png",
   "contributes": {
     "themes": [
       {
-        "label": "Horizons Edge",
+        "label": "Horizons Edge Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Horizons Edge-color-theme.json"
       }
