@@ -3,7 +3,7 @@
   "publisher": "darpots",
   "displayName": "Horizons Edge Theme",
   "description": "Theme made for darpots that evolved over time to look quite decent.  Well, at least I think so....",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.65.0"
   },

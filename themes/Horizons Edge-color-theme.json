@@ -52,6 +52,7 @@
     "editor.selectionBackground": "#4b3c22",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editor.selectionHighlightBorder": "#ffcc77",
+    "editorInlayHint.typeForeground": "#d5ec8b",
     "editor.wordHighlightBackground": "#575757b8",
     "editor.wordHighlightStrongBackground": "#4b3c22",
     "editorBracketHighlight.foreground1": "#e8ba36",
@@ -404,7 +405,9 @@
         "storage.modifier.async.ts",
         "support.type.object.module.js",
         "support.constant.media",
-        "variable.function.svelte"
+        "variable.function.svelte",
+        "meta.scope.tag.svelte:head.svelte entity.name.tag.svelte",
+        "meta.scope.tag.svelte:body.svelte entity.name.tag.svelte"
       ],
       "settings": {
         "foreground": "#FFA07A",
