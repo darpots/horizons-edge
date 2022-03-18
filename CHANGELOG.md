@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.4
+
+- update bracket colours
+- sort tokens alphabetically
+
 ## 0.1.3
 
 - colored svelte:head and svelte:body
