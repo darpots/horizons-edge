@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.0
+
+- tidied some svelte special elements
+
 ## 0.1.4
 
 - update bracket colours
@@ -12,7 +16,7 @@
 
 ## 0.1.2
 
-- Documentation - added example immages and improved readme a little.
+- Documentation - added example images and improved readme a little.
 
 ## 0.1.0
 
