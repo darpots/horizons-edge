@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.1
+
+- added a couple of Astro colors to match existing theme
+
 ## 0.2.0
 
 - tidied some svelte special elements
