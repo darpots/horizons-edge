@@ -418,7 +418,8 @@
         "support.constant.media",
         "support.type.object.module.js",
         "variable.function.svelte",
-        "meta.tag.component.astro"
+        "meta.tag.component.astro",
+        "meta.selector.css"
       ],
       "settings": {
         "foreground": "#FFA07A",
@@ -506,7 +507,8 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#5CBE79"
+        "foreground": "#5CBE79",
+        "fontStyle": ""
       }
     },
     {
@@ -570,7 +572,7 @@
         "meta.tag.sgml.doctype.html",
         "meta.tag.sgml.doctype",
         "source.elixir .punctuation.binary.elixir",
-        "source.go keyword"
+        "source.go keyword",
       ],
       "settings": {
         "foreground": "#FF99FF",

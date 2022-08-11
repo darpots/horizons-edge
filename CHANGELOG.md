@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.2
+
+- astro tweaks
+
 ## 0.2.1
 
 - added a couple of Astro colors to match existing theme

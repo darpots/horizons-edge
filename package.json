@@ -3,7 +3,7 @@
   "publisher": "darpots",
   "displayName": "Horizons Edge Theme",
   "description": "An alright theme 👍",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.65.0"
   },
